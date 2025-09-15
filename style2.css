@@ -14,10 +14,10 @@ li {
 }
 
 h1 {
-    color: #84A98C;
+    color: #ffcca9;
     font-size: 7rem;
     text-align: center;
-    margin-bottom: -30;
+    margin-bottom: -40;
     font-display: block;
     ;
 }
@@ -25,6 +25,7 @@ h1 {
 h2 {
     font-size: 3rem;
     text-align: center;
+    color: #ffc299;
 }
 
 p {
@@ -34,8 +35,21 @@ p {
 
 .card{
     background-color: #502419;
-    border: #d3b081;
     border-radius: 40px;
     margin: 10px auto;
-    max-width: fit-content;
+    max-width: 300px;
+}
+
+.card2{
+    background-color: #502419;
+    border-radius: 40px;
+    margin: 10px auto;
+    max-width: 500px;
+}
+
+img{
+    
+}
+#oak{
+    border: 100px snow;
 }
