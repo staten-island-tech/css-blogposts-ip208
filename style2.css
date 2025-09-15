@@ -43,13 +43,13 @@ p {
 .card2{
     background-color: #502419;
     border-radius: 40px;
-    margin: 10px auto;
+    margin: auto;
     max-width: 500px;
+    align-items: center;
+    display: block;
 }
 
-img{
-    
-}
-#oak{
-    border: 100px snow;
+#name {
+    align-items: center;
+    margin: auto;
 }
